@@ -1,3 +1,8 @@
 
-CIDemo/CIDemo.xcodeproj/project.xcworkspace/xcuserdata/dan.tt.xcuserdatad/UserInterfaceState.xcuserstate
 *.xcuserstate
+
+Build
+
+# fastlane
+Fastlane/report.xml
+Fastlane/test_output
